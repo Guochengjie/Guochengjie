@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guochengjie
 - 👀 I’m interested in Artificial Intelligence, Deep Learning, Natural Language Processing, Linux, Open Source ...
-- 🌱 I’m currently working on a Computer Science programme, and is desired to acquire a BSc. Computer Science soon. In the future, I would work on Urban Computing under the supervision of [Zheng Yu](http://urban-computing.com/yuzheng). 
-  I am a future PhD. candidate, hurray!
+- 🌱 I’m currently working as a <b>PhD. candidate</b> on Urban Computing under the supervision of <b>[Zheng Yu](http://urban-computing.com/yuzheng)</b> in Xidian University. 
+  I've acquired <b>BEng. Computer Science and Technology</b> from Southwest Jiaotong University and <b>BSc. Computer Science</b> from University of Leeds.
 - 📫 How to reach me - i@guoch.xyz, or visit my website [My Blog (in Chinese)](https://guoch.xyz) or [My Homepage](https://b4a.me)
 
 <!---
